@@ -4,9 +4,6 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
-
 # Privacy Policy
 
 Jeans Ruiz built the Shadowify app as a Freemium app. This SERVICE is provided by Jeans Ruiz at no cost and is intended for use as is.
